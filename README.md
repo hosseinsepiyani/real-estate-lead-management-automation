@@ -8,6 +8,22 @@ This workflow automates the entire lead management process—from **lead intake 
 
 ---
 
+# 📸 Workflow Overview
+
+![Workflow Overview](screenshot/workflow-overview.png)
+
+---
+
+# 🎥 Workflow Demo
+
+The complete workflow demonstration is included in the repository.
+
+**Demo:** [`Version1.mp4`](demo/Version1.mp4)
+
+The video demonstrates the main automation flow and its key components.
+
+---
+
 ## 🎯 The Problem
 
 Managing real estate leads manually can create several problems:
@@ -297,21 +313,7 @@ This makes the system:
 
 New channels, business rules, notification methods, or reporting features can be added without rebuilding the entire system.
 
----
 
-# 📸 Workflow Overview
-
-![Workflow Overview](screenshot/workflow-overview.png)
-
----
-
-# 🎥 Workflow Demo
-
-The complete workflow demonstration is included in the repository.
-
-**Demo:** [`Version1.mp4`](demo/Version1.mp4)
-
-The video demonstrates the main automation flow and its key components.
 
 ---
 
